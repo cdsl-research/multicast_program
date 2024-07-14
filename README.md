@@ -20,9 +20,14 @@
 
 # 実行方法
 
-クライアントはESP32を使い，MicroPythonのファームウェアはv1.22.2を使用している．
+クライアントはESP32を使い，MicroPythonのファームウェアはv1.22.2を使用している．プログラムの記述にはThonnyを用いた．
 
-サーバはESXiに仮想環境を建て，そこにkisozikken_server.pyとsendingFile_750kB.txtを置いて実行している．
+サーバはESXiに仮想環境を建て，そこにkisozikken_server.pyとsendingFile_750kB.txtを置いて実行している．仮想環境でPythonファイルを実行する時は，下記の方法からpowershell等で実行する．
+```
+Python3 ファイル名.py
+```
+
+
 
 
 
