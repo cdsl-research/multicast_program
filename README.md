@@ -25,8 +25,6 @@
 サーバはESXiに仮想環境を建て，そこにkisozikken_server.pyとsendingFile_750kB.txtを置いて実行している．
 
 
-サーバは各自で建て，実行する．
-実行時，Wi-Fi接続を行ってからマルチキャスト送信を行う．
 
 # 注意点
 Wi-Fi接続に必要なssidとpasswordを設定する．
