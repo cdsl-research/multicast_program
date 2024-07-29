@@ -30,4 +30,16 @@ Python3 ファイル名.py
 Wi-Fi接続に必要なssidとpasswordを設定する．
 マルチキャストアドレスとポートは適切なものを設定する．
 
+## クライアントの実行結果
+120回の内，1回目の部分を抜粋する．
+![image](https://github.com/user-attachments/assets/d5d5def1-6107-4d60-9635-f4818c567ef7)
+
+## サーバの実行結果
+クライアントの実行結果と同様に120回の内，1回目の部分を抜粋する．
+![image](https://github.com/user-attachments/assets/f58bd147-0cae-460f-91b4-9f87b6255c16)
+
+
+
+
+
 
